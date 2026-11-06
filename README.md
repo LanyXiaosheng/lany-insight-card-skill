@@ -1,6 +1,6 @@
 # 洞见卡：把经验变成可调用判断
 
-这是从姜胡说专栏归纳的方法技能，来源与改写记录见 [来源说明](references/sources.md)。
+本技能将既有学习材料重写为独立方法笔记，不是原文复刻。说明、步骤与边界均可在本仓库内阅读：[方法笔记](references/methods.md)。
 
 ## 什么时候用
 
@@ -33,13 +33,13 @@ $lany-insight-card-skill
 
 [查看完整技能定义](SKILL.md)。
 
-## 2026 年星球增强
+## 补充用法
 
 增加内容与格式分层检查、实操失败回退和候选洞见的否证方法。
 
 调用示例：`$lany-insight-card-skill 检查这张旧卡：先判断依据和边界，再修改格式；没有使用记录就保留候选状态。`
 
-[增补来源及取舍](references/zsxq-2026.md)。
+[阅读方法笔记](references/methods.md)。
 
 ## 独立仓库与安装
 
@@ -54,4 +54,4 @@ git clone https://github.com/LanyXiaosheng/lany-insight-card-skill.git ~/.codex/
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-insight-card-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-insight-card-skill` 调用。
 
-初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
+当前版本附自包含方法笔记，无需访问外部原文；现有仓库提交历史保留。
