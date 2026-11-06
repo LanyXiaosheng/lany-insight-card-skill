@@ -73,3 +73,5 @@ description: 将具体经验、读书片段或已有笔记提炼成有来源、�
 
 具体调用示例见 [README.md](README.md)。
 理解方法原理、完整步骤和边界时读 [方法笔记](references/methods.md)。
+
+需要可填写模板、逐步操作、完整虚构案例及验收清单时，按需读取[操作手册](references/workbook.md)。
